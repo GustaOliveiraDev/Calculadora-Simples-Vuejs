@@ -1,5 +1,9 @@
 # calculator
 
+<div align="center">
+<img src="![image](https://user-images.githubusercontent.com/123316156/227800819-836e1c85-b2ae-4913-ac45-fc876cf3899e.png)" width="500px" />
+</div>
+
 ## Project setup
 ```
 npm install
